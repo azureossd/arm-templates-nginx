@@ -228,7 +228,7 @@
                 "typeHandlerVersion": "2.0",
                 "autoUpgradeMinorVersion": true,
                 "settings": {
-                  "fileUris": ["https://raw.githubusercontent.com/Kendubu1/samples/main/nginx2/nginxlab2.sh"],
+                  "fileUris": ["https://raw.githubusercontent.com/azureossd/nginx-2/main/nginxlab2.sh"],
                   "commandToExecute": "[concat('sudo sh nginxlab2.sh ',variables('adminUsername'))]"
                 }
               }
